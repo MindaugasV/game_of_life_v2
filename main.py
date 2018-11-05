@@ -6,6 +6,8 @@
 # 3. If there is three same kind touching by border (form of L) in any direction -> new appears in corner, other splits diagonaly
 # 4. After a turn on border line of planet one dies
 
+# Test PR
+
 import time
 from enum import Enum
 
